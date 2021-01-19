@@ -1,0 +1,8 @@
+td.normal:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+td.normal.selected:hover {
+  background-color: orange;
+}

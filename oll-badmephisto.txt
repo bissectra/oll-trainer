@@ -1,0 +1,58 @@
+F (R U R' U') F'
+F (R U R' U') (R U R' U') F'
+F (R U R' U') (R U R' U') (R U R' U') F'
+f (R U R' U') f'
+f (R U R' U') (R U R' U') f'
+f ' (L' U' L U) f
+F' (L' U' L U) (L' U' L U) F
+[F (R U R' U') F'] U [F (R U R' U') F' ]
+[F' (L' U' L U) F] y [F (R U R' U') F']
+[f (R U R' U') f'] U [F (R U R' U') F' ]
+[f (R U R' U') f'] U' [F (R U R' U') F' ]
+[F (R U R' U') F' ] [f (R U R' U') f']
+[f (R U R' U') f'] [F (R U R' U') F']
+(r U r') (R U R' U') (r U' r')
+(l' U' l) (L' U' L U) (l' U l)
+R' [F (R U R' U') F'] U R
+(R U R' U') M' (U R U' r')
+M U (R U R' U') M2 (U R U' r')
+F (R U R' U') R F' (r U R' U') r'
+(R U R' U') (R' F R F')
+(r U R' U') (r' F R F')
+F' (r U R' U') (r' F R )
+R' U' (R' F R F') U R
+(R U2 R') (R' F R F') U2 (R' F R F')
+(R U2 R') (R' F R F') (R U2 R')
+M U (R U R' U') M' (R' F R F') 
+(R' F R' F') R2 U2 y (R' F R F')
+(R U R' U) (R U' R' U') (R' F R F')
+(L' U' L U') (L' U L U) (L F' L' F)
+(R U R' U) R d' R U' R' F'
+(R U R' U) (R' F R F') U2 (R' F R F')
+[F (R U R' U) F'] y' U2 (R' F R F')
+r' U2 (R U R' U) r
+(r U R' U) R U2 r'
+(R U R' U) R U2 R'
+R U2 R' U' R U' R'
+[ R' U2 (R U R' U) R] y [F (R U R' U') F']
+[(R U R' U) R U2 R'] [F (R U R' U') F']
+(r U R' U) (R U' R' U) R U2' r'
+l' U' L U' L' U L U' L' U2 l
+r U2 R' U' R U' r'
+F R U' R' U' R U R' F'
+r' U' R U' R' U2 r
+M' U M U2 M' U M
+(R U R2 U') (R' F) (R U) (R U') F'
+F U R U' R2 F' R (U R U' R')
+R' F R U R' F' R y' (R U' R')
+R2 [D (R' U2) R] [D' (R' U2) R']
+R' U2 R2 U R' U R U2 x' U' R' U
+R U B' U' R' U R B R'
+R' U' F U R U' R' F' R
+R B' R' U' R U B U' R'
+R' F R2 B' R2' F' R2 B R'
+(R U R' U') R U' R' F' U' F (R U R')
+(R2 U R' B' R) U' (R2 U R B R')
+(R' U' R) y' x' (R U') (R' F) (R U R')
+R U R' y R' F R U' R' F' R
+
