@@ -55,4 +55,3 @@ R' F R2 B' R2' F' R2 B R'
 (R2 U R' B' R) U' (R2 U R B R')
 (R' U' R) y' x' (R U') (R' F) (R U R')
 R U R' y R' F R U' R' F' R
-
