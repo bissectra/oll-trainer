@@ -1,3 +1,0 @@
-- create a algorithm database
-- verify if current "our_data" is possible before redirecting
-- link algorithms to cube images
